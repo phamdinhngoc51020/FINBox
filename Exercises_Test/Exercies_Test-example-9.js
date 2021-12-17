@@ -1,4 +1,4 @@
-const findSurplus = require('../Exercises/example-9.js');
+const findSurplus = require('../Example/example-9.js');
 
 function checkExercise() {
     console.assert(findSurplus(5,3)==2, "Output value correct");

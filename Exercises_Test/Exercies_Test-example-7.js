@@ -1,4 +1,4 @@
-const sumOldNumber = require('../Exercises/example-7.js');
+const sumOldNumber = require('../Example/example-7.js');
 
 function checkExercise() {
     console.assert(sumOldNumber([4,5,6,7,8])===12, "Output value correct");

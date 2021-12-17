@@ -1,4 +1,4 @@
-const countOldNumber = require('../Exercises/example-5.js');
+const countOldNumber = require('../Example/example-5.js');
 
 function checkExercise() {
     console.assert(countOldNumber([4,5,6,7,8])==2, "Output value correct");

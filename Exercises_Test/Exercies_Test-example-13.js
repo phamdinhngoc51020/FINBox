@@ -1,4 +1,4 @@
-const plateislandArray = require('../Exercises/example-13.js');
+const plateislandArray = require('../Example/example-13.js');
 const checker = require('../Example_function_dev/function_dev.js');
 
 

@@ -1,4 +1,4 @@
-const FindMaxofArray = require('../Exercises/example-10.js');
+const FindMaxofArray = require('../Example/example-10.js');
 
 function checkExercise() {
     console.assert(FindMaxofArray([3,5,2,9,6])==9, "Output value correct");

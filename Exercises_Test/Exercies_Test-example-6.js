@@ -1,4 +1,4 @@
-const sumEvenNumber = require('../Exercises/example-6.js');
+const sumEvenNumber = require('../Example/example-6.js');
 
 function checkExercise() {
     console.assert(sumEvenNumber([4,5,6,7,8])==18, "Output value correct");

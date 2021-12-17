@@ -1,4 +1,4 @@
-const factorial_numbers = require('../Exercises/example-2.js');
+const factorial_numbers = require('../Example/example-2.js');
 
 function checkExercise() {
     console.assert(factorial_numbers(2,3)==8, "Output value correct");

@@ -1,4 +1,4 @@
-const averagevalue = require('../Exercises/example-12.js');
+const averagevalue = require('../Example/example-12.js');
 
 function checkExercise() {
     console.assert(averagevalue([3,4,5])==4, "Output value correct");

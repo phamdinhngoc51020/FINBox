@@ -1,4 +1,4 @@
-const checkNumberelement = require('../Exercises/example-8.js');
+const checkNumberelement = require('../Example/example-8.js');
 const checker = require('../Example_function_dev/function_dev.js');
 function checkExercise() {
     console.assert(checkNumberelement(5), "Output value correct");

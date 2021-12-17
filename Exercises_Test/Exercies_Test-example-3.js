@@ -1,4 +1,4 @@
-const checkNumber = require('../Exercises/example-3.js');
+const checkNumber = require('../Example/example-3.js');
 function checkExercise() {
     console.assert(checkNumber(4,6)=="Cùng chẵn","Output value correct");
     console.assert(checkNumber(5,6)=="1 chẵn 1 lẻ","Output value correct");

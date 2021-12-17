@@ -25,8 +25,24 @@ function checkIfTwoArraysAreEqual(arr1, arr2) {
     return true;
 }
 
+
+function checkTwoArrayLengt(arr1, arr2) {
+    if (arr1.length !== arr2.length)
+        return false
+    else
+        return true;
+}
+
+function checkStart_End(start,end){
+    if(start>=end)
+        return false;
+    return true;
+}
+
 module.exports = {
     checkDecimal: checkDecimal,
     checkIfTwoArraysAreEqual: checkIfTwoArraysAreEqual,
     checkArrayDecimal: checkArrayDecimal,
+    checkTwoArrayLengt: checkTwoArrayLengt,
+    checkStart_End:checkStart_End,
 }

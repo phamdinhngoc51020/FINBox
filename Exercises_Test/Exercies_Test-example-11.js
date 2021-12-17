@@ -1,4 +1,4 @@
-const findoffminArray = require('../Exercises/example-11.js');
+const findoffminArray = require('../Example/example-11.js');
 
 function checkExercise() {
     console.assert(findoffminArray([3,5,2,9,6])==2, "Output value correct");
